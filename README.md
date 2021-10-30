@@ -1,4 +1,4 @@
-## Takehome Tagup 
+## Tagup Takehome
 
 This Challenge from tagup revolves around machine data, and exploring what can be found from the 3 sensors.
 
