@@ -27,6 +27,6 @@ deeper into this by plotting this data on scatterplots and histograms. The relat
 the 100's were outliers. I decided to treat this data by deleting values outside of the 25-75% range. This left me with a new dataset
 that I then plotted on a scatterplot and also checked the new statistical moments.
 
-#IMPORTANT NOTICE: THIS IS ANALYSIS IS REPLICABLE FOR ALL OF THE MACHINES 
+#IMPORTANT: This analysis is replicable for all of the machine data. 
 
 
