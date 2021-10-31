@@ -5,7 +5,7 @@ In this project, I dive into some simple, yet insightful tactics in an effort to
 
 
 
-**What was done:**
+**Steps Taken:**
 - [x] Found some statistical moments before manipulating the data
 - [x] Data visualization via histogram and scatterplot
 - [x] Checked for and treated outliers 
