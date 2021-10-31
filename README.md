@@ -6,7 +6,6 @@ In this project, I dive into some simple, yet insightful tactics in an effort to
 
 
 **What was done:**
-- Loaded in all necessary libraries 
 - Read in the CSV file and got a description of the data
 - Found some statistical moments before manipulating data
 - Data visualization via histogram and scatterplot
