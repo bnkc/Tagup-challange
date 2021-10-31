@@ -21,6 +21,6 @@ I began with getting a description of the dataset so I could view the means, max
   
   In conclusion, I was left with an interesting question. What if those extreme values had some importance to the dataset in determining when a machine was reaching a failure point?
 
-*IMPORTANT: This analysis is replicable for all of the machine data.* 
+
 
 
