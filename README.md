@@ -6,11 +6,9 @@ In this project, I dive into some simple, yet insightful tactics in an effort to
 
 
 **What was done:**
-- Read in the CSV file and got a description of the data
-- Found some statistical moments before manipulating data
+- Found some statistical moments before manipulating the data
 - Data visualization via histogram and scatterplot
-- Checked for outliers in the data using a simple IQR test
-- Treated outliers 
+- Checked for and treated outliers 
 - Visualized data after manipulation
 - Mapped data into an SQLite database
 
