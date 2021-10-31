@@ -14,12 +14,10 @@ In this project, I dive into some simple, yet insightful tactics in an effort to
 
 **Summary:**
 
-I found some pretty clear outliers in the tail ends of the data.
-From the statistical moments found in Machine 0, all sensors remained ~0. I found that even though the mean, 25%, 50%,
-and 75% range all followed this pattern, there were some pretty large maximums and minimums. I decided to dive a little
-deeper into this by plotting this data on scatterplots and histograms. The relationships were clear indicators that values well into
-the 100's were outliers. I decided to treat this data by deleting values outside of the 25-75% range. This left me with a new dataset
-that I then plotted on a scatterplot and also checked the new statistical moments.
+  When analyzing the data provided for the machines, I found some pretty interesting insights. 
+I began with getting a description of the dataset so I could view the means, maximums, and minimums. This was important as it helped me eventually find the outiers in the dataset. From the statistical moments found, it became clear that the max and mins seemed out of place.
+  I decided to then plot data on various graphs to get a better understanding of the relationships within the data. Plotting the data supported my theory that the tail ends were skewed. I decided to treat this data by deleting values outside of the 25-75% range by performing a simple IQR test. This left me with a new dataset that I then plotted on a scatterplot and found statistical moments in order to compare to the original dataset. This cleaned data was then mapped into a database.
+  In conclusion, I was left with an interesting question. What if those extreme values had some importance to the dataset in determining when a machine was reaching a failure point?
 
 #IMPORTANT: This analysis is replicable for all of the machine data. 
 
