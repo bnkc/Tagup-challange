@@ -1,7 +1,7 @@
 ## Tagup Takehome
 
 This challenge from Tagup revolves around machine data, and exploring what can be found from the 3 sensors.
-In this project, I dive into some simple, yet insightful tactics to learn a little more about the sensors statistically.
+In this project, I dive into some simple, yet insightful tactics in an effort to find statistical moments and outliers within the machine data.
 
 
 
