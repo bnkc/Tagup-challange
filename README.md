@@ -6,11 +6,11 @@ In this project, I dive into some simple, yet insightful tactics in an effort to
 
 
 **What was done:**
-- Found some statistical moments before manipulating the data
-- Data visualization via histogram and scatterplot
-- Checked for and treated outliers 
-- Visualized data after manipulation
-- Mapped data into an SQLite database
+- [x] Found some statistical moments before manipulating the data
+- [x] Data visualization via histogram and scatterplot
+- [x] Checked for and treated outliers 
+- [x] Visualized data after manipulation
+- [x] Mapped data into an SQLite database
 
 **Summary:**
 
